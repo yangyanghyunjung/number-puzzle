@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\study\toy_project\consoleGame\Number Puzzle\Number Puzzle\main.cpp(5,41): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\study\toy_project\consoleGame\Number Puzzle\Number Puzzle\main.cpp(37,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Number Puzzle.vcxproj -> C:\study\toy_project\consoleGame\Number Puzzle\x64\Debug\Number Puzzle.exe
