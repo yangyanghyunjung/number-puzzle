@@ -1,4 +1,4 @@
-# 🧩 25 Puzzle Game (Console Edition)
+# 🧩 25 Puzzle Game (Console Edition)   
 
 
 ## 📌 프로젝트 소개
@@ -43,7 +43,6 @@
 ### 🧱 개발 환경
 - Language: `C++`
 - Compiler: `Visual Studio`
-- 라이브러리: `<windows.h>`, `<conio.h>`, `<time.h>`
 
 ## 📘 프로젝트를 통해 배운 점 (C / C++)
 
@@ -60,9 +59,6 @@
 | 배열 인덱스 | 배열의 인덱스 == 메모리의 시작 주소로 부터 떨어진 거리 |
 | `system("cls")`, `Sleep()` | Windows API를 활용한 콘솔 제어 방법 (UI 리프레시, 애니메이션 느낌 주기) |
 
----
-
----
 
 ## 🧩 예시 화면
 
