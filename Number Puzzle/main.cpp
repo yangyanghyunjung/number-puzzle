@@ -219,6 +219,5 @@ int main()
 		}
 
 	}
-	Sleep(500);
 	return 0;
 }
